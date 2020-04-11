@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Screenshots
-<img src="screenshots/Screenshot_1586608907.png" height="100" width="50">
+<img src="screenshots/Screenshot_1586608907.png" height="500" width="250">
 
 ## Getting Started
 
