@@ -5,6 +5,11 @@ A new Flutter application.
 ## Screenshots
 <img src="screenshots/Screenshot_1586608907.png" height="500" width="250"> <img src="screenshots/Screenshot_1586608820.png" height="500" width="250"> <img src="screenshots/Screenshot_1586608808.png" height="500" width="250"> <img src="screenshots/Screenshot_1586608792.png" height="500" width="250"> <img src="screenshots/Screenshot_1586608775.png" height="500" width="250">
 
+- Working Search Bar
+- Easy to use Edit Screen
+- Time Picker
+- Date Picker
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
