@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## Screenshots
+<img src="screenshots/Screenshot_1586608907.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
